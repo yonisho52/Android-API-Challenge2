@@ -7,9 +7,9 @@
 
 - You can use https://restcountries.eu
 
-- **Use Threads 
+- **Use Threads** 
 
-- **Show state's flag
+- **Show state's flag**
 
 # Results:
 
